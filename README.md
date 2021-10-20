@@ -2,8 +2,8 @@
   <img src="https://images.unsplash.com/photo-1514939775307-d44e7f10cabd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" width="500px">
   <br>
   <samp>
-    👋 Hello, I'm Thomas! 👋 <br>
-    💻 Software Engineer 💻 <br>
+    Hello, I'm Thomas! 👋 <br>
+    Software Engineer 💻 <br>
     🍏 (iOS, Swift, Reactive) -> lover, developer and supporter 🍏 <br>
     💻 website: https://mthomas3.github.io
   </samp>
