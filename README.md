@@ -3,7 +3,8 @@
   <br>
   <samp>
     Hello, I'm Thomas! 👋 <br>
-    Software Engineer, 🍏 (iOS, Swift, Reactive) -> lover, developer and supporter. <br>
+    Software Engineer <br>
+    🍏 (iOS, Swift, Reactive) -> lover, developer and supporter. <br>
     💻 website: https://mthomas3.github.io
   </samp>
 </p>
