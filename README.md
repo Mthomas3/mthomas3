@@ -4,7 +4,7 @@
   <samp>
     Hello, I'm Thomas! 👋 <br>
     Software Engineer 💻 <br>
-    🍏 (iOS, Swift, Reactive) -> lover, developer and supporter 🍏 <br>
+    🍏 (iOS, Swift, Reactive) 🍏 <br>
     💻 website: https://mthomas3.github.io
   </samp>
 </p>
