@@ -4,8 +4,7 @@
   <samp>
     Hi there, my name is Thomas! 👋 <br>
     I'm a Software Engineer 💻 that loves coffee too much ❤️ <br>
-    Founder of CryptoMarket - Portfolio available on the <a href="https://apps.apple.com/fr/app/cryptomarket-portfolio/id1494691514">AppStore</a>
-    🚀 don't forget to put 5 ⭐️ <br>
+    Founder of CryptoMarket - Portfolio available on the <a href="https://apps.apple.com/fr/app/cryptomarket-portfolio/id1494691514">AppStore</a> 🚀 <br>
     🍏 (iOS, Swift, Reactive) 🍏 <br>
     💻  <a href="https://mthomas3.github.io">Personal website</a> made with ❤️ in Toulouse 🇫🇷
   </samp>
