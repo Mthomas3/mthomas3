@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CryptoMarket-App.png" width="500px">
+  <img src="CryptoMarket-App.png" width="750px">
   <br>
   <samp>
     Hello, I'm Thomas! 👋 <br>
