@@ -2,10 +2,12 @@
   <img src="CryptoMarket-App.png" width="750px">
   <br>
   <samp>
-    Hello, I'm Thomas! 👋 <br>
-    Software Engineer 💻 <br>
+    Hi there, my name is Thomas! 👋 <br>
+    And I'm a Software Engineer 💻 that loves coffee too much ❤️ <br>
+    Founder of CryptoMarket - Portfolio available on the [AppStore](https://apps.apple.com/fr/app/cryptomarket-portfolio/id1494691514)
+    🚀 don't forget to put 5 ⭐️ <br>
     🍏 (iOS, Swift, Reactive) 🍏 <br>
-    💻 website: https://mthomas3.github.io
+    💻 [personal website](https://mthomas3.github.io) made with ❤️ in Toulouse 🇫🇷
   </samp>
 </p>
 
